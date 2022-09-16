@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AL</h1>
 <h3 align="center">A developer who enjoys automating stuff and making discord tools</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al280&label=Profile%20views&color=0e75b6&style=flat" alt="al280" /> < mostly botted ;) </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=al280&label=Profile%20views&color=0e75b6&style=flat" alt="al280" /> < not botted :) </p> 
 - 🚀 I’m currently working on DartCord
 
 - 💻 I’m currently learning **Html, css & java**
